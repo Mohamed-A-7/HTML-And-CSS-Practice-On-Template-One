@@ -13,17 +13,18 @@ Leon is a simple and elegant HTML/CSS template that includes various sections su
 
 ## Table of Contents
 
-- [Live Demo](https://mohamed-a-7.github.io/HTML-And-CSS-Practice-on-/)
-- [Installation](git clone https://github.com/Mohamed-A-7/HTML-And-CSS-Practice-on-.git)
+- [Live Demo](https://mohamed-a-7.github.io/HTML-And-CSS-Practice-On-Template-One/)
+- [Installation](https://github.com/Mohamed-A-7/HTML-And-CSS-Practice-Template-One-Leon-Template.git)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
+- [Author](#author)
 
 ## Live Demo
 
-You can view a live demo of the template [here](#).
+You can view a live demo of the template [here](https://mohamed-a-7.github.io/HTML-And-CSS-Practice-On-Template-One/).
 
 ## Installation
 
@@ -32,9 +33,14 @@ To use this template, you can download it or clone it from the GitHub repository
 ```bash
 git clone https://github.com/Mohamed-A-7/HTML-And-CSS-Practice-Template-One-Leon-Template.git
 
+## Installation
+
+```bash
+git clone https://mohamed-a-7.github.io/HTML-And-CSS-Practice-On-Template-One/
+
 ## Author
 
-Mohamed Ali
+#Mohamed Ali
 
 - **GitHub**: [Mohamed-A-7](https://github.com/Mohamed-A-7)
 - **Twitter**: [Mohamed__A__7](https://x.com/Mohamed__A__7)
